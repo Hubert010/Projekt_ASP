@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|c:\\users\\huber\\source\\repos\\projektasp\\projektasp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|solutionrelative:projektasp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|c:\\users\\huber\\source\\repos\\projektasp\\projektasp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|solutionrelative:projektasp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|c:\\users\\huber\\source\\repos\\projektasp\\projektasp\\models\\rezerwacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|solutionrelative:projektasp\\models\\rezerwacja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|c:\\users\\huber\\source\\repos\\projektasp\\projektasp\\models\\auta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|solutionrelative:projektasp\\models\\auta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|c:\\users\\huber\\source\\repos\\projektasp\\projektasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E28E4E82-EA4C-4C0D-B720-5220700F30B6}|ProjektASP\\ProjektASP.csproj|solutionrelative:projektasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProjektASP\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Models\\ApplicationUser.cs*",
+              "RelativeToolTip": "ProjektASP\\Models\\ApplicationUser.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:55:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjektASP\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjektASP\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:44:57.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rezerwacja.cs",
+              "DocumentMoniker": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Models\\rezerwacja.cs",
+              "RelativeDocumentMoniker": "ProjektASP\\Models\\rezerwacja.cs",
+              "ToolTip": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Models\\rezerwacja.cs*",
+              "RelativeToolTip": "ProjektASP\\Models\\rezerwacja.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:37:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auta.cs",
+              "DocumentMoniker": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Models\\auta.cs",
+              "RelativeDocumentMoniker": "ProjektASP\\Models\\auta.cs",
+              "ToolTip": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\Models\\auta.cs",
+              "RelativeToolTip": "ProjektASP\\Models\\auta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:35:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjektASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huber\\source\\repos\\ProjektASP\\ProjektASP\\appsettings.json",
+              "RelativeToolTip": "ProjektASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T19:34:01.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
